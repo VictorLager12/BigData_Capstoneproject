@@ -55,7 +55,7 @@ The analysis followed a structured data analytics workflow, ensuring reproducibi
 <h4>2. Exploratory Data Analysis (EDA)</h4>
 
 ***I. Generated descriptive statistics***
-![alt text](<screenshoots/preparation of data/dataPrep2.png>)
+![alt text](<screenshoots/preparation of data/descriptiveStatistic1.png>)
 
 ***II. Created visualizations showing distribution patterns***
 *Geographical distribution across Africa and Top 20 countries by facility count.*
